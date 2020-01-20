@@ -7,7 +7,7 @@ In this workshop 'The new PO' will constantly throw requirements your way. It's 
 
 In this workshop you will *NOT* be evaluated based on your code. As a PO I only care about customers and new features. So you can organize the code how you like, work the way you like, use whatever you like. The goal of the workshop is to focus on development technique, not on technology. So you should be able to to everything with pure java.
 
-In this code repository there is some simple start code to get things going. I've chosen to use java8 maven and junit5. However feel free to throw it away and to in in other way. 
+In this code repository there is some simple start code to get things going. I've chosen to use java8 maven and junit5. However feel free to throw it away and do in in other way. 
 
 **The sole requirement is that the application can be run using the 'scorekeeper' command.** 
 
