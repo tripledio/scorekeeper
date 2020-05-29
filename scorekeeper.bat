@@ -1,2 +1,2 @@
 @echo off
-mvnw -q install exec:java -Dexec.mainClass="com.sofisco.scorekeeper.ScorekeeperApplication"
+mvnw -q install exec:java -Dexec.mainClass="ScorekeeperApplication"

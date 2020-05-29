@@ -1,4 +1,4 @@
-package com.sofisco.scorekeeper;
+package io.tripled.scorekeeper;
 
 import org.junit.jupiter.api.Test;
 
